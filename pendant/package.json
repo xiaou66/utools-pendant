@@ -1,0 +1,8 @@
+{
+  "name": "pendant",
+  "version": "1.0.0",
+  "dependencies": {
+    "faye-websocket": "^0.11.3"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,23 @@
+{
+  "pluginName": "桌面挂件",
+  "description": "桌面挂件",
+  "homepage": "",
+  "version": "1.0.0",
+  "update": false,
+  "author": "xiaou",
+  "main": "vue/index.html",
+  "preload": "preload.js",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "pendant",
+      "explain": "桌面挂件",
+      "cmds": [
+        "挂件",
+        "桌面挂件",
+        "wife",
+        "gj"
+      ]
+    }
+  ]
+}
